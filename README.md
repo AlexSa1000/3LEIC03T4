@@ -15,8 +15,9 @@ A primeira iteração do nosso produto é destinado a estudantes da FEUP que pre
 
 ## Use case modeling
 
-| Name                             | Use case name, showing the actor’s intent.                                                                                                                                      |
+|                                  |                                                                                                                                                                                 |
 |----------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| Name                             | Use case name, showing the actor’s intent.                                                                                                                                      |
 | Actor                            | Name of the actor that initiates the use case.                                                                                                                                  |
 | Description                      | Brief description highlighting the utility (possibly including results and responsibilities).                                                                                   |
 | PreConditions                    | Initial conditions (usually about the initial state of the system and actors and input parameters) to be able to execute the use case successfully.                             |
